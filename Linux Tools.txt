@@ -1,0 +1,124 @@
+
+rest api/protocol
+GitHub=> head/rebase
+GitLab => study git branching workflow 
+bitbucket
+
+Jenkins
+sonarqube
+sonarlint
+docker -> docker lib for ________
+
+
+codecov
+cgroups
+aiohttp
+BANDIT
+yapf
+cooperative multitasking
+
+linterations (installed in pycharm)=> 	pylint
+										autopep8
+
+kubernetes -> for info "google" => this is google developed
+gocd
+sphinx
+
+
+GITLAB:git process cmd
+=========================
+git add -A
+git commit -m "____"
+git push -u origin _______
+
+git clone ____
+
+
+git commit process cmd hostory by sushant
+======================================
+
+cd /tmp/
+ 1999  ls
+ 2000  git
+ 2001  ls
+ 2002  git clone https://gitlab.com/demorphica/testsmarti.git
+ 2003  ls
+ 2004  cd testsmarti/
+ 2005  ls
+ 2006  whoami
+ 2007  ssh-keygen 
+ 2008  cat ~/.ssh/id_rsa.pub 
+ 2009  ls
+ 2010  cat > tesh.sh
+ 2011  ls
+ 2012  bash tesh.sh 
+ 2013  git add -A
+ 2014  git commit -m "added test.sh"
+ 2015  git config --global user.email "demorphica@demorphica.com"
+ 2016  git config --global user.name "Sushant Tripathi"
+ 2017  git commit -m "added test.sh"
+ 2018  ls
+ 2019  git push -u origin master
+ 2020  ls
+ 2021  nano tesh.sh 
+ 2022  ls
+ 2023  chmod +x tesh.sh 
+ 2024  ./tesh.sh 
+ 2025  nano tesh.sh 
+ 2026  ./tesh.sh 
+ 2027  git commit -m "added new option"
+ 2028  git push -u origin master
+ 2029  git add -A
+ 2030  git commit -m "added new option"
+ 2031  git push -u origin master
+ 2032  cd /
+ 2033  git clone git@gitlab.com:demorphica/testsmarti.git
+ 2034  cd /tmp/
+ 2035  mkdir tmp
+ 2036  cd t
+ 2037  ls
+ 2038  cd tmp/
+ 2039  ls
+ 2040  git clone git@gitlab.com:demorphica/testsmarti.git
+ 2041  ls
+ 2042  cd testsmarti/
+ 2043  ll
+ 2044  cat tesh.sh 
+ 2045  ls
+ 2046  cd ..
+ 2047  ls
+ 2048  rm -r testsmarti/
+ 2049  l
+ 2050  sls
+ 2051  ls
+ 2052  git clone git@gitlab.com:demorphica/testsmarti.git
+ 2053  ls
+ 2054  cd testsmarti/
+ 2055  ls
+ 2056  git checkout -b feature1
+ 2057  git status
+ 2058  ls
+ 2059  touch feature.sh
+ 2060  cat feature.sh
+ 2061  cat > feature.sh 
+ 2062  bash feature.sh 
+ 2063  git add -A
+ 2064  git commit -m "feature 1"
+ 2065  git push -u origin feature1
+ 2066  ll
+ 2067  git status
+ 2068  history
+ 2069  cd ..
+ 2070  cd..
+ 2071  cd ..
+ 2072  history > Sushant_GIT_cmds.txt
+ 2073  sudo history > Sushant_GIT_cmds.txt
+ 2074  ls
+ 2075  cd home
+ 2076  ls
+ 2077  history > Sushant_GIT_cmds.txt
+ 2078  cd /tmo
+ 2079  touch text
+ 2080  cd /home/u16/
+ 2081  ls
+ 2082  history > Sushant_GIT_cmds.txt
